@@ -10,10 +10,10 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+  margin-bottom: 16px;
 }
 .logo-footer .accent {
   color: #4d5ae5;
-  margin-bottom: 16px;
 }
 
 .footer-text {
@@ -22,5 +22,5 @@
 
 .footer-left {
   max-width: 264px;
-  padding: 0 15px;
+  padding: 15px;
 }
